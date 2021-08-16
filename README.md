@@ -1,4 +1,5 @@
 # MyCard-Store-Database
+Project Completion Date:2018
 
 this project is a database for an online Gift Cards shop called MyCards, it provides on demand gift cards for consumers of a variety of world-wide platform services. Such as Subscriptions, Recharge Cards, virtual Currencies, Online shopping, gift cards.
 
